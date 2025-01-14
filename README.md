@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @younesBOUKDIRE
-- 👀 I’m interested in programation web full stack. 
-- 🌱 I’m currently learning Laravel 
-- 📫 How to reach me email: younes.boukdir.3@gmail.com
+Hi, I'm Younes Boukdire!
+🌟 Developer | Innovator | Football Enthusiast
 
+🚀 About Me:
+I am a passionate developer with expertise in web development, database management, and software engineering. With a solid foundation in JavaScript, React, PHP, and Laravel, I love building scalable, efficient, and user-centric applications. My journey also includes exploring state management with Redux, crafting REST APIs, and diving into backend technologies like Node.js and MongoDB.
 
-<!---
-younesBOUKDIRE/younesBOUKDIRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚙️ Technologies I Work With:
+
+Frontend: React, HTML, CSS, JavaScript
+Backend: Node.js, PHP, Laravel, Express.js
+Database: MySQL, MongoDB, Mongoose
+Other Tools: Scrum, Redux, SonarQube
+💡 What Drives Me:
+I thrive on solving complex problems, learning new technologies, and creating impactful solutions. I also enjoy merging my love for football with my tech skills, exploring analytics and strategies in the game.
+
+🌐 Current Projects:
+
+Building a Social Media Application, Tactics Community.
+Exploring NFC technology for a new project.
+Enhancing skills in Laravel and modern web frameworks.
+📬 Let’s Connect:
+Feel free to collaborate, share ideas, or just say hello!
+
+📧 Email: [YourEmail@example.com]
+
