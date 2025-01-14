@@ -21,5 +21,5 @@ Enhancing skills in Laravel and modern web frameworks.
 📬 Let’s Connect:
 Feel free to collaborate, share ideas, or just say hello!
 
-📧 Email: [YourEmail@example.com]
+📧 Email: [younes.boukdir.3@gmail.com]
 
